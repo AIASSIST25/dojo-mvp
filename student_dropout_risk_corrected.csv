@@ -1,0 +1,11 @@
+student_id,name,days_since_last_class,at_risk
+S001,Alex Lee,11,True
+S002,Jordan Kim,13,True
+S003,Taylor Patel,13,True
+S004,Morgan Nguyen,13,True
+S005,Casey Smith,15,True
+S006,Jamie Garcia,19,True
+S007,Reese Chen,31,True
+S008,Drew Adams,15,True
+S009,Riley Baker,21,True
+S010,Sky Miller,13,True
