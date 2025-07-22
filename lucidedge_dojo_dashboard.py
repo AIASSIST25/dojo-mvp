@@ -2,8 +2,7 @@
 import streamlit as st
 import pandas as pd
 from datetime import datetime
-from stripe_config import stripe
-
+# from stripe_config import stripe
 # Dashboard title
 st.set_page_config(page_title="LucidEdge Dojo Dashboard", layout="wide")
 st.title("LucidEdge Dojo Instructor Dashboard")
